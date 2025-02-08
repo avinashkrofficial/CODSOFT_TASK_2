@@ -16,7 +16,9 @@ This project is a simple GUI-based password generator developed using Python. Th
 
 ## ✨ Features
 ✔️ Password Customization: Users can specify the length of the password and choose the inclusion of uppercase letters, lowercase letters, numbers, and special characters.
+
 ✔️ GUI Interface: Easy-to-use graphical user interface (GUI) built with Tkinter.
+
 ✔️ Secure Passwords: Generates strong and random passwords to ensure security.
 
 ---
